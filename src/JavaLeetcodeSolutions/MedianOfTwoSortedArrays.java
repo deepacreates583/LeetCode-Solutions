@@ -1,6 +1,6 @@
 package JavaLeetcodeSolutions;
 
-class solution {
+    class MedianOfTwoSortedArrays {
 
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         // Ensure nums1 is the smaller array to achieve O(log(min(m, n)))
