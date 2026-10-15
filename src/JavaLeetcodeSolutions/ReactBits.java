@@ -77,6 +77,10 @@ class Solution {
     public String threeSum(int[] ints) {
         return Arrays.toString(threeSum(ints).toCharArray());
     }
+
+    public void fourSum(int[] nums, int target) {
+        return;
+    }
 }
 
 
