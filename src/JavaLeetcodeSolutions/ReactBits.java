@@ -81,6 +81,10 @@ class Solution {
     public void fourSum(int[] nums, int target) {
         return;
     }
+
+    public boolean reverse(int i) {
+        return false;
+    }
 }
 
 
