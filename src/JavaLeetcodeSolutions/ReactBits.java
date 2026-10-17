@@ -82,9 +82,7 @@ class Solution {
         return;
     }
 
-    public boolean reverse(int i) {
-        return false;
-    }
 }
+
 
 
