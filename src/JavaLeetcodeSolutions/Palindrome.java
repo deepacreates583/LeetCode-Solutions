@@ -22,7 +22,7 @@ public class Palindrome {
         return x == reversedHalf || x == reversedHalf / 10;
     }
 
-    // Main function to run and test the solution
+    // removeDuplicates function to run and test the solution
     public static void main(String[] args) {
         Palindrome solver = new Palindrome();
 

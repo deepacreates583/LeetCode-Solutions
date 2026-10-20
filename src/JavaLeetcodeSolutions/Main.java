@@ -10,7 +10,7 @@ public class Main {
         System.out.println("Output: " + solver.longestPalindrome(test2));
     }
 
-    // Making this 'static' nests it safely inside the Main class
+    // Making this 'static' nests it safely inside the removeDuplicates class
     public static class Solution {
         public String longestPalindrome(String s) {
             if (s == null || s.length() < 1) return "";

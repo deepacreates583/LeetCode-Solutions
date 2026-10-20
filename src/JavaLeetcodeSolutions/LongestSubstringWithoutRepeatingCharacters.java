@@ -2,7 +2,7 @@ package JavaLeetcodeSolutions;
 
 
 import java.lang.reflect.Array;
-  class sol {
+  class lengthOfLongestSubstring {
     public int lengthOfLongestSubstring(String s) {
         int maxLen = 0, left = 0;
         int[] lastSeen = new int[128];

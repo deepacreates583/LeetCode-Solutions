@@ -47,7 +47,7 @@ public class FourSum {
         return result;
     }
 
-    // Main function fixed to match the proper class instantiation
+    // removeDuplicates function fixed to match the proper class instantiation
     public static void main(String[] args) {
         FourSum solver = new FourSum();
 

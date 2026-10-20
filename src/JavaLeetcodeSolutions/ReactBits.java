@@ -70,19 +70,13 @@ class Solution {
         System.out.println("Output (Bin): " + binOut1);
     }
 
-    public String lengthOfLongestSubstring(String abcabcbb) {
-        return abcabcbb.length() == 0 ? "0" : abcabcbb;
-    }
-
     public String threeSum(int[] ints) {
-        return Arrays.toString(threeSum(ints).toCharArray());
+        return "";
     }
 
-    public void fourSum(int[] nums, int target) {
-        return;
+    public int removeDuplicates(int[] nums1) {
+        return 0;
     }
-
 }
-
 
 
