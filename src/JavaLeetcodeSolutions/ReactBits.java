@@ -70,13 +70,8 @@ class Solution {
         System.out.println("Output (Bin): " + binOut1);
     }
 
-    public String threeSum(int[] ints) {
-        return "";
-    }
 
-    public int removeDuplicates(int[] nums1) {
-        return 0;
-    }
-}
+
+
 
 
